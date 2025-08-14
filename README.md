@@ -18,16 +18,3 @@ This project mimics the UI of Spotify's music player, focusing on layout, stylin
 - **CSS3** (Flexbox, Grid, Animations)
 
 ---
-
-## 📷 Screenshots
-*(Add your project screenshots here)*
-
-Example:
-![Spotify Clone Screenshot](./screenshot.png)
-
----
-
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Arka2003kolya/Spotify_Clone.git
